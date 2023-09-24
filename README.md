@@ -3,7 +3,7 @@
 
 This readme file gives basic overview of the scrope of this project, sample results, and steps needed to replicate the work, either from scratch or using pre-trained models. Reproducing the results from-scratch is very involved process and includes training of all the models. In either case data processing needs to be done. Details are described below.
 
-The full research paper is available at: https://arxiv.org/abs/2203.00108
+
 
 **TLDR.**
 ## Abstract
